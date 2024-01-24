@@ -1,10 +1,10 @@
 ---
-title: arrays
+title: Arrays
 date: 2023-11-19 16:45:08
 tags: 
  - Arrays
- - algorithm
-category: java
+ - Note
+category: Java
 mathjax: true
 ---
 

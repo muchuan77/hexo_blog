@@ -1,8 +1,8 @@
 ---
 title: Welcome to electric-cat'blog 
 date: 2023-11-15 16:06:15
-tags: introduce
-category: welcome
+tags: Introduce
+category: Welcome
 mathjax: true
 ---
 
